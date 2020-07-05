@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img
+    src="doc/hero_image.png"
+    width="280"
+    alt="logo"
+/>
 
-## Available Scripts
+本文描述了通过 HTML iframe 组件进行物可视仪表盘嵌入的一种方案，供参考。
 
-In the project directory, you can run:
+您可以通过在线预览和本地运行两种方式查看本方案。
 
-### `npm start`
+# 1 在线预览
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+(待更新)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# 2 本地运行
 
-### `npm test`
+:information_source: 本项目采用 [create-react-app](https://github.com/facebook/create-react-app) 构建。
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 2.1 知识储备
 
-### `npm run build`
+* 基本的 Javascript 和 React 开发知识
+* 基本的 npm 使用能力
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 2.2 环境需求
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+您的电脑需要提供如下软件环境：
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* nodejs 版本 >= 8.0.0
+* 最新版的现代浏览器（推荐 Edge、火狐、谷歌浏览器）
 
-### `npm run eject`
+## 2.3 运行方法
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+下载本项目：
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/ZhaoMuwei/baidu-viz-iframe-demo.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+进入项目根目录并安装各种运行依赖：
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm i
+```
 
-## Learn More
+启动项目：
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+该命令会自动打开系统默认浏览器并访问 [http://localhost:3000/](http://localhost:3000/)。
 
-### Code Splitting
+如您的默认浏览器不是上述“现代浏览器”，请手动更换浏览器，并访问该 URL。
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<img
+    src="doc/home_page.png"
+    width="400"
+    alt="logo"
+/>
 
-### Analyzing the Bundle Size
+<img
+    src="doc/popup_image.png"
+    width="400"
+    alt="logo"
+/>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+# 3 联系方式
 
-### Making a Progressive Web App
+1. [百度云物可视官网](https://cloud.baidu.com/product/iotviz.html)
+2. [iot-viz-rd@baidu.com](mailto:iot-viz-rd@baidu.com)
+3. [百度云工单](https://ticket.bce.baidu.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
+© 版权所有 百度云物可视团队
