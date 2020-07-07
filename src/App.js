@@ -26,7 +26,7 @@ const columns = [
 ];
 
 const App = () => (
-  <div style={{width: 450, margin: '30px auto'}}>
+  <div style={{width: 450, margin: '50px auto'}}>
     {/* 标题 */}
     <h1 style={{marginLeft: 15}}>城市气温汇总表</h1>
     {/* 表格 */}
