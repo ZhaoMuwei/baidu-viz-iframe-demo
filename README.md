@@ -10,7 +10,7 @@
 
 # 1 在线预览
 
-(待更新)
+[请移步 >>](https://zhaomuwei.github.io/baidu-viz-iframe-demo/)
 
 # 2 本地运行
 
