@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/baidu-viz-iframe-demo/precache-manifest.1a65899219ef1ef1cb7cb4878c14ca5d.js"
+  "/baidu-viz-iframe-demo/precache-manifest.e41f19f601bd9a957629b52e75309da0.js"
 );
 
 self.addEventListener('message', (event) => {

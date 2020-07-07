@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae404eb1d3b62b3d7e9e97797e9c870e",
+    "revision": "5098088a7687695e68210f98fe9466f9",
     "url": "/baidu-viz-iframe-demo/index.html"
   },
   {
