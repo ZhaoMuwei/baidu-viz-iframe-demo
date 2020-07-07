@@ -39,7 +39,8 @@ git clone https://github.com/ZhaoMuwei/baidu-viz-iframe-demo.git
 进入项目根目录并安装各种运行依赖：
 
 ```
-# 为防止不必要的依赖库版本问题，本项目包含了 package-lock.json 文件，所以使用 ci 而非 instal(i)
+# 为防止不必要的依赖库版本问题，本项目包含了 package-lock.json 文件
+# 所以使用 ci 而非 install(i)
 npm ci
 ```
 
