@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/baidu-viz-iframe-demo/static/css/main.2d51ff4f.chunk.css",
+    "main.js": "/baidu-viz-iframe-demo/static/js/main.5fd23194.chunk.js",
+    "main.js.map": "/baidu-viz-iframe-demo/static/js/main.5fd23194.chunk.js.map",
+    "runtime-main.js": "/baidu-viz-iframe-demo/static/js/runtime-main.0bdb1d39.js",
+    "runtime-main.js.map": "/baidu-viz-iframe-demo/static/js/runtime-main.0bdb1d39.js.map",
+    "static/css/2.c27a359e.chunk.css": "/baidu-viz-iframe-demo/static/css/2.c27a359e.chunk.css",
+    "static/js/2.b72c1150.chunk.js": "/baidu-viz-iframe-demo/static/js/2.b72c1150.chunk.js",
+    "static/js/2.b72c1150.chunk.js.map": "/baidu-viz-iframe-demo/static/js/2.b72c1150.chunk.js.map",
+    "index.html": "/baidu-viz-iframe-demo/index.html",
+    "precache-manifest.1a65899219ef1ef1cb7cb4878c14ca5d.js": "/baidu-viz-iframe-demo/precache-manifest.1a65899219ef1ef1cb7cb4878c14ca5d.js",
+    "service-worker.js": "/baidu-viz-iframe-demo/service-worker.js",
+    "static/css/2.c27a359e.chunk.css.map": "/baidu-viz-iframe-demo/static/css/2.c27a359e.chunk.css.map",
+    "static/css/main.2d51ff4f.chunk.css.map": "/baidu-viz-iframe-demo/static/css/main.2d51ff4f.chunk.css.map",
+    "static/js/2.b72c1150.chunk.js.LICENSE.txt": "/baidu-viz-iframe-demo/static/js/2.b72c1150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bdb1d39.js",
+    "static/css/2.c27a359e.chunk.css",
+    "static/js/2.b72c1150.chunk.js",
+    "static/css/main.2d51ff4f.chunk.css",
+    "static/js/main.5fd23194.chunk.js"
+  ]
+}
